@@ -1,4 +1,4 @@
 package gorocksdb
 
-// #cgo pkg-config: rdkafka
+// #cgo pkg-config: rocksdb
 import "C"
