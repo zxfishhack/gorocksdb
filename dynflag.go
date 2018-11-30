@@ -2,5 +2,5 @@
 
 package gorocksdb
 
-// #cgo LDFLAGS: -lrocksdb
+// #cgo pkg-config: rdkafka
 import "C"
